@@ -1,2 +1,2 @@
 <?php
-     echo '趣味屋';
+   echo '趣味happy!';
